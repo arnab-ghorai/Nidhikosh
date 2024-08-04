@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.test {
+  background: #232323;
+  color: chartreuse;
+  text-align: center;
+}
