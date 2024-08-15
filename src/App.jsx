@@ -10,7 +10,7 @@ function App() {
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
           <path stroke-linecap="round" stroke-linejoin="round" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
         </svg>
-        <span class="ml-2 font-semibold text-[#252C32]">What a Market</span>
+        <span class="ml-2 font-semibold text-[#252C32]">Nidhiknosh</span>
       </div>
 
       <div class="ml-6 flex flex-1 gap-x-3">
@@ -21,7 +21,7 @@ function App() {
           <span class="text-sm font-medium">Categories</span>
         </div>
 
-        <input type="text" class="w-full rounded-md border border-[#DDE2E4] px-3 py-2 text-sm" value="DJI phantom" />
+        <input type="text" class="w-full rounded-md border border-[#DDE2E4] px-3 py-2 text-sm" value=" " />
       </div>
 
       <div class="ml-2 flex">
@@ -73,6 +73,7 @@ function App() {
         <span class="cursor-pointer rounded-sm py-1 px-2 text-sm font-medium hover:bg-gray-100">Health</span>
         <span class="cursor-pointer rounded-sm py-1 px-2 text-sm font-medium hover:bg-gray-100">Pharmacy</span>
         <span class="cursor-pointer rounded-sm py-1 px-2 text-sm font-medium hover:bg-gray-100">Toys & Games</span>
+        <span class="cursor-pointer rounded-sm py-1 px-2 text-sm font-medium hover:bg-gray-100">treasure hunt</span>
       </div>
 
       <span class="cursor-pointer rounded-sm py-1 px-2 text-sm font-medium hover:bg-gray-100">Becoma a seller</span>
